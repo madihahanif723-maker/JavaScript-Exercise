@@ -1,4 +1,4 @@
-document.write("<div class='box'>");
+document.write("<div class='tab'>");
 
 var subject1 = prompt("Enter first subject name");
 var subject2 = prompt("Enter second subject name");
